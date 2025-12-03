@@ -1,0 +1,60 @@
+__________________________________________________________________________________________________________________________________________________________
+Bank   :235        Dombivli Nagari Sahakari Bank Ltd       FLEXCUBE                                                                 Run Date  :18-MAY-2020
+                                                 Statement of A/c for General Advances                                              Run Time  :05:22      
+Branch :84         Bavdhan branch                                                                                                          
+DP CODE:084                                      For the Period 01-Apr-2019 - 17-May-2020                                           Report ID :LN420      
+__________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
+Customer Id/ Name  :1284052 / SOURABH NARAYAN MUCHHAL                                                                                                     
+Address            :FLAT NO 401 MEGHANA BUILDING DSK RANWARA                                                                                              
+                   :BAVDHAN TAL MULSHIPUNE                                                                                
+                   :MAHARASHTRAIN411021                                                                                   
+Account No         :084403400069859                                                                                                                       
+Sector Name        :                                                                                                                                      
+Product Code/Name  :4034 / Hypo Loan for Carnival 2wheeler                                                                                                
+Accrued Interest Till Date   :0                                                        (Amounts in Rupees)                 
+__________________________________________________________________________________________________________________________________________________________
+Txn Date        Value Date      Particulars                                                    Debit                     Credit                    Balance
+__________________________________________________________________________________________________________________________________________________________
+12/04/2019      12/04/2019      2 WHEELER SANCTIONED AND DISBURSED                         99,000.00                       0.00                  99,000.00
+11/05/2019      12/05/2019      REGULAR INTEREST  LN. Interest Charge                         759.00                       0.00                  99,759.00
+11/05/2019      12/05/2019      Drawdown From CASA.                                             0.00                   1,479.00                  98,280.00
+13/05/2019      13/05/2019      Drawdown From CASA.                                             0.00                   1,678.00                  96,602.00
+11/06/2019      12/06/2019      REGULAR INTEREST  LN. Interest Charge                         741.00                       0.00                  97,343.00
+11/06/2019      12/06/2019      Drawdown From CASA.                                             0.00                     868.00                  96,475.00
+13/06/2019      13/06/2019      Drawdown From CASA.                                             0.00                   2,289.00                  94,186.00
+11/07/2019      12/07/2019      REGULAR INTEREST  LN. Interest Charge                         723.00                       0.00                  94,909.00
+11/07/2019      12/07/2019      Drawdown From CASA.                                             0.00                     794.30                  94,114.70
+15/07/2019      15/07/2019      Drawdown From CASA.                                             0.00                   2,362.70                  91,752.00
+11/08/2019      12/08/2019      REGULAR INTEREST  LN. Interest Charge                         705.00                       0.00                  92,457.00
+11/08/2019      12/08/2019      Drawdown From CASA.                                             0.00                     738.30                  91,718.70
+14/08/2019      14/08/2019      Drawdown From CASA.                                             0.00                   2,418.70                  89,300.00
+11/09/2019      12/09/2019      REGULAR INTEREST  LN. Interest Charge                         686.00                       0.00                  89,986.00
+11/09/2019      12/09/2019      Drawdown From CASA.                                             0.00                     682.30                  89,303.70
+13/09/2019      13/09/2019      Drawdown From CASA.                                             0.00                   2,474.70                  86,829.00
+11/10/2019      12/10/2019      REGULAR INTEREST  LN. Interest Charge                         666.00                       0.00                  87,495.00
+11/10/2019      12/10/2019      Drawdown From CASA.                                             0.00                     631.60                  86,863.40
+15/10/2019      15/10/2019      Drawdown From CASA.                                             0.00                   2,525.40                  84,338.00
+11/11/2019      12/11/2019      REGULAR INTEREST  LN. Interest Charge                         649.00                       0.00                  84,987.00
+11/11/2019      12/11/2019      Drawdown From CASA.                                             0.00                     575.60                  84,411.40
+13/11/2019      13/11/2019      Drawdown From CASA.                                             0.00                   2,581.40                  81,830.00
+11/12/2019      12/12/2019      REGULAR INTEREST  LN. Interest Charge                         628.00                       0.00                  82,458.00
+11/12/2019      12/12/2019      Drawdown From CASA.                                             0.00                     519.60                  81,938.40
+14/12/2019      13/12/2019      Drawdown From CASA.                                             0.00                   2,637.40                  79,301.00
+11/01/2020      12/01/2020      REGULAR INTEREST  LN. Interest Charge                         609.00                       0.00                  79,910.00
+11/01/2020      12/01/2020      Drawdown From CASA.                                             0.00                     445.90                  79,464.10
+14/01/2020      14/01/2020      Drawdown From CASA.                                             0.00                   2,711.10                  76,753.00
+12/02/2020      12/02/2020      REGULAR INTEREST  LN. Interest Charge                         590.00                       0.00                  77,343.00
+12/02/2020      12/02/2020      Drawdown From CASA.                                             0.00                     389.90                  76,953.10
+13/02/2020      13/02/2020      Drawdown From CASA.                                             0.00                   2,767.10                  74,186.00
+11/03/2020      12/03/2020      REGULAR INTEREST  LN. Interest Charge                         569.00                       0.00                  74,755.00
+11/03/2020      12/03/2020      Drawdown From CASA.                                             0.00                     333.90                  74,421.10
+13/03/2020      13/03/2020      Drawdown From CASA.                                             0.00                   2,823.10                  71,598.00
+11/04/2020      12/04/2020      REGULAR INTEREST  LN. Interest Charge                         550.00                       0.00                  72,148.00
+11/04/2020      12/04/2020      Drawdown From CASA.                                             0.00                     274.20                  71,873.80
+15/04/2020      15/04/2020      Drawdown From CASA.                                             0.00                   2,882.80                  68,991.00
+11/05/2020      12/05/2020      REGULAR INTEREST  LN. Interest Charge                         531.00                       0.00                  69,522.00
+11/05/2020      12/05/2020      Drawdown From CASA.                                             0.00                     299.20                  69,222.80
+13/05/2020      13/05/2020      Drawdown From CASA.                                             0.00                   2,857.80                  66,365.00
+                                                                            
+                                                  
